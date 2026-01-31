@@ -89,11 +89,11 @@
   <b>⭐ If you like my work, consider supporting me</b>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://buymeacoffee.com/iamshiv07">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160"/>
   </a>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Im-Shivam-Singh&color=blue"/>
