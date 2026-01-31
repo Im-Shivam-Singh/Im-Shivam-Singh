@@ -1,89 +1,109 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0E76A8&height=110&section=header"/>
 
 <h1 align="center">
-  Hi there, I'm 
-  <a href="https://www.linkedin.com/in/singhshivam-007/">Shivam</a>
-  <img height="40" src="https://github.com/Im-Shivam-Singh/Im-Shivam-Singh/blob/main/giphy.gif"/>
+Hi 👋, I'm Shivam Singh
 </h1>
 
+<h3 align="center">
+🚀 Full-Stack Web Developer | JavaScript | React | Node.js
+</h3>
+
 <p align="center">
-  <a href="https://shivam-portfolio-html-css-js.netlify.app/">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/singhshivam-007/">LinkedIn</a> •
-  <a href="https://www.instagram.com/i_am_shiv_0719/">Instagram</a> •
-  <a href="mailto:iamshiv0719@gmail.com">Contact</a>
+  <a href="https://www.linkedin.com/in/singhshivam-007/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:iamshiv0719@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://shivam-portfolio-html-css-js.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/i_am_shiv_0719/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
-<img align="center" width="1000" src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif">
+---
+
+## 👨‍💻 About Me
+
+- 💼 **Full-Stack Web Developer**
+- 🏢 **Ex-SDE Intern @ Tata Steel UISL**
+- 🌱 Currently learning **Next.js & Advanced DSA**
+- 💬 Ask me about **JavaScript, React, Node.js**
+- 🤝 Open to **Internships, Full-time roles & Open-Source**
+- ⚡ Fun fact: I love building real-world products & networking
 
 ---
 
-## 👨🏻‍💻 About Me
-<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" width="350" align="right"/>
+## 🛠️ Tech Stack
 
-✨ Full-Stack Web Developer | Ex-SDE Intern @ Tata Steel UISL  
-⚡ Website: https://shivam-portfolio-html-css-js.netlify.app  
-📫 Reach me: iamshiv0719@gmail.com  
-💬 Ask me about **Web Development**  
-🤝 Open to collaborations & open-source  
-🎯 2025 Goal: **React, Next.js & DSA**  
-🎉 Fun fact: Love networking & building cool things
+### 💻 Languages & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express"/>
+</p>
 
----
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql"/>
+</p>
 
-## 🛠️ Tools & Technology
-
-<table align="center">
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="55"/><br>VS Code</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=react" width="55"/><br>React</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=js" width="55"/><br>JavaScript</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=express" width="55"/><br>Express</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="55"/><br>Node.js</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="55"/><br>Bootstrap</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="55"/><br>MongoDB</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=postgresql" width="55"/><br>PostgreSQL</td>
-</tr>
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=redux" width="55"/><br>Redux</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=aws" width="55"/><br>AWS</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=postman" width="55"/><br>Postman</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=docker" width="55"/><br>Docker</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=kubernetes" width="55"/><br>Kubernetes</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=git" width="55"/><br>Git</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=figma" width="55"/><br>Figma</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="55"/><br>Tailwind</td>
-</tr>
-</table>
+### ⚙️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,docker,aws,figma,tailwind,bootstrap,vscode"/>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Im-Shivam-Singh&theme=radical"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Im-Shivam-Singh&theme=radical"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Im-Shivam-Singh&theme=radical"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Im-Shivam-Singh&theme=radical"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Im-Shivam-Singh&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Im-Shivam-Singh&theme=radical" height="165"/>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Im-Shivam-Singh&theme=synthwave-84"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Im-Shivam-Singh&layout=compact&theme=radical"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Im-Shivam-Singh&theme=react-dark"/>
+</p>
+
+---
+
+## 🏆 Achievements
+
+- 🪶 **GirlScript Summer of Code 2024 Contributor**
+- 🎉 **Hacktoberfest 2024 Completed**
+- 🏅 Active Open-Source Contributor
+
+---
+
+## 🤝 Let’s Connect
+
+- 💼 LinkedIn: https://www.linkedin.com/in/singhshivam-007/
+- 🌐 Portfolio: https://shivam-portfolio-html-css-js.netlify.app/
+- 📧 Email: iamshiv0719@gmail.com
 
 ---
 
 <p align="center">
-  <b>Thanks for visiting my profile! ☕</b>
+  <b>⭐ If you like my work, consider supporting me!</b>
 </p>
 
 <p align="center">
   <a href="https://buymeacoffee.com/iamshiv07">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/>
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160"/>
   </a>
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Im-Shivam-Singh&color=red"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Im-Shivam-Singh&color=blue"/>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=80&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0E76A8&height=90&section=footer"/>
