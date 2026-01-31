@@ -37,7 +37,7 @@
 
 ### 💻 Languages & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express,aws"/>
 </p>
 
 ### 🗄️ Databases
@@ -71,21 +71,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Im-Shivam-Singh&theme=react-dark"/>
 </p>
 
----
-
-## 🏆 Achievements
-
-- 🪶 **GirlScript Summer of Code (GSSoC) 2024 Contributor**
-- 🎉 **Hacktoberfest 2024 Completed**
-- 🏅 Active Open-Source Contributor
-
----
 
 ## 🤝 Let’s Connect
 
 - 💼 LinkedIn: https://www.linkedin.com/in/singhshivam-007/
 - 🌐 Portfolio: https://shivam-portfolio-html-css-js.netlify.app/
-- 📧 Email: iamshiv0719@gmail.com
+- 📧 Email: shivamsingh6318@gmail.com
 
 ---
 
