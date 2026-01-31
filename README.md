@@ -37,7 +37,7 @@
 
 ### 💻 Languages & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express,aws"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express"/>
 </p>
 
 ### 🗄️ Databases
@@ -45,9 +45,14 @@
   <img src="https://skillicons.dev/icons?i=mongodb,postgresql"/>
 </p>
 
+### ☁️ Cloud, DevOps & Architecture
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,githubactions"/>
+</p>
+
 ### ⚙️ Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,docker,aws,figma,tailwind,bootstrap,vscode"/>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,tailwind,bootstrap,vscode"/>
 </p>
 
 ---
