@@ -1,11 +1,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0E76A8&height=110&section=header"/>
 
-<h1 align="center">
-Hi 👋, I'm Shivam Singh
-</h1>
+<h1 align="center">Hi 👋, I'm Shivam Singh</h1>
 
 <h3 align="center">
-🚀 Full-Stack Web Developer | JavaScript | React | Node.js
+🚀 Full-Stack Web Developer @ Tata Communications
 </h3>
 
 <p align="center">
@@ -27,12 +25,11 @@ Hi 👋, I'm Shivam Singh
 
 ## 👨‍💻 About Me
 
-- 💼 **Full-Stack Web Developer**
-- 🏢 **Ex-SDE Intern @ Tata Steel UISL**
-- 🌱 Currently learning **Next.js & Advanced DSA**
-- 💬 Ask me about **JavaScript, React, Node.js**
-- 🤝 Open to **Internships, Full-time roles & Open-Source**
-- ⚡ Fun fact: I love building real-world products & networking
+- 💼 **Full-Stack Web Developer @ Tata Communications**
+- 🌱 Currently learning **Advanced Data Structures**
+- 💬 Ask me about **JavaScript, React, Node.js, REST APIs, Python, AWS**
+- 🤝 Open to **Full-time roles, collaborations & open-source**
+- ⚡ Fun fact: I enjoy building scalable, dynamic, and visually compelling digital solutions.
 
 ---
 
@@ -78,7 +75,7 @@ Hi 👋, I'm Shivam Singh
 
 ## 🏆 Achievements
 
-- 🪶 **GirlScript Summer of Code 2024 Contributor**
+- 🪶 **GirlScript Summer of Code (GSSoC) 2024 Contributor**
 - 🎉 **Hacktoberfest 2024 Completed**
 - 🏅 Active Open-Source Contributor
 
@@ -93,7 +90,7 @@ Hi 👋, I'm Shivam Singh
 ---
 
 <p align="center">
-  <b>⭐ If you like my work, consider supporting me!</b>
+  <b>⭐ If you like my work, consider supporting me</b>
 </p>
 
 <p align="center">
