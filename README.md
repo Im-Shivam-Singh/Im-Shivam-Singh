@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Shivam Singh</h1>
 
 <h3 align="center">
-🚀 Full-Stack Web Developer @ Tata Communications
+🚀 SDE @ Tata Communications
 </h3>
 
 <p align="center">
@@ -80,7 +80,7 @@
 ## 🤝 Let’s Connect
 
 - 💼 LinkedIn: https://www.linkedin.com/in/singhshivam-007/
-- 🌐 Portfolio: https://shivam-portfolio-html-css-js.netlify.app/
+- 🌐 Portfolio: https://shivam-portfo.app/
 - 📧 Email: shivamsingh6318@gmail.com
 
 ---
@@ -90,7 +90,7 @@
 </p>
 
 <!-- <p align="center">
-  <a href="https://buymeacoffee.com/iamshiv07">
+  <a href="https://buymeacoffee.com/ia">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160"/>
   </a>
 </p> -->
